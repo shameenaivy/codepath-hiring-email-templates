@@ -3,7 +3,7 @@
 I hope everything is okay with you and your family. 
 
 I do appreciate your effort and interest in joining our program here in CodePath.org.  
-At the moment, our courses are specifically targeted at students enrolled in our partner universities within the United States as also indicated in our [eligibilty checks](https://) section.
+At the moment, our courses are specifically targeted at students enrolled in our partner universities within the United States as also indicated in our [eligibilty checks](http://courses.codepath.com/snippets/intro_to_ios/thanks_for_applying?id=99#heading-requirements) section.
 However, please know that we are working on to expanding are programs to many more areas. 
 Actually, we already run programs in other countries such as Haiti. 
 
